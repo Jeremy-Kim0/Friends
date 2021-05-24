@@ -1,2 +1,3 @@
 # Friends
- Graph program with features to add friends and groups
+Friendship graph program with features to add friends and cliques
+
